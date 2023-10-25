@@ -1,0 +1,54 @@
+/* .components {
+  position: relative;
+}
+
+.components button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #0074d9;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.image-row {
+  display: flex;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+.image-row img {
+  width: 100px; /* Adjust the image width as needed */
+/* height: auto;
+  margin-right: 10px;
+}
+
+.spam-text {
+  margin-top: 20px;
+} */
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.textDisplay {
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+  justify-content: center;
+}
+
+.imageDisplay {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+}
